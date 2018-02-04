@@ -1,0 +1,42 @@
+.verticle-align-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.profile-pic-cover-edit {
+	height: 300px;
+	width: 100%;
+	text-align: center;
+}
+
+.profile-pic-edit {
+	vertical-align: middle;
+	max-height: 225px;
+	border-radius: 50%;
+	border: 5px solid #bcd0d1;
+	height: 100%;
+}
+
+.project-img-container-edit {
+	background-color: #111111;
+	height: 215px;
+	width: 215px;
+	background-size: cover;
+}
+
+.overlay {
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+	padding: 10px 10px 10px 20px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
